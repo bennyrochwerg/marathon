@@ -46,6 +46,7 @@ second_model <-
     seed = 853
   )
 
+prior_summary(second_model)
 
 #### Save model ####
 saveRDS(
